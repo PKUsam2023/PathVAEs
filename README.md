@@ -92,7 +92,6 @@ This repo should contain the following files:
 - 31 ./latent_space/get_result_HEA/get_struction.py - Code to get the complete files for the high potential HEA catalyst structures.
 - 32 ./latent_space/get_result_HEA/get_potential_HEA/ - The folder where the high potential HEA catalyst structures are located, if you need VESTA visualization please change the file name to CONTCAR.
 
-## Model
-The trained model files of PathVAEs are at 
+## Other
 
 If you find any bugs or have questions, please contact 2101212695@stu.pku.edu.cn 
